@@ -1,7 +1,5 @@
 <h1> Device driver that automates encrypting and decrypting files when moved to/from a USB drive. </h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/js4tcd6zWiw?si=7E9ThpIwsMEXV6HT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <h3> There are a few dependencies that must be met before this is possible </h3>
 
 1. This must take place on a Linux Machine
